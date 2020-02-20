@@ -1,0 +1,58 @@
+body{
+    font-family: "Roboto", sans-serif;
+    background: #2BC0E4; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, rgb(43, 216, 228) , rgb(176, 80, 202)); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, rgb(43, 160, 228) , rgb(227, 198, 236)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  }
+
+
+#container{
+    width: 360px;
+    margin: 6% auto;
+    border: 2px solid gray;
+    background-color:white;
+    -webkit-box-shadow: 0 10px 6px -6px #777;
+    -moz-box-shadow: 0 10px 6px -6px #777;
+    box-shadow: 0 10px 6px -6px #777;    
+
+}
+#actual{
+    font-size: 20px;
+    Color: black;
+
+}
+
+#max{
+    font-size: 20px;
+    Color: #b12121;
+}
+
+#min{
+    font-size: 20px;
+    Color: #2a45bd;
+}
+
+#cond{
+    font-size: 20px;
+    Color: #218cb6;
+
+        }
+
+#vel{
+    font-size: 20px;
+    Color: #2fa2c5;
+}
+
+input {
+    font-size: 18px;
+    background-color: #f7f7f7;
+    width: 20%;
+    padding: center;
+    border: 2px black;
+  }
+
+  #pais{
+    font-size: 20px;
+    Color: black;
+
+}
